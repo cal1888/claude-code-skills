@@ -9,6 +9,12 @@ Every skill in this collection was created by its original authors, credited bel
 | AI Video Generation | inference.sh (`inference-sh`) | https://github.com/inference-sh/skills | No license file (all rights reserved) | Install-linked only — not rehosted |
 | AI Image Generation | inference.sh (`inference-sh`) | https://github.com/inference-sh/skills | No license file (all rights reserved) | Install-linked only — not rehosted |
 | AI Avatar Video | inference.sh (`inference-sh`) | https://github.com/inference-sh/skills | No license file (all rights reserved) | Install-linked only — not rehosted |
+| Find Animation Opportunities | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/find-animation-opportunities/`, MIT `LICENSE` included |
+| Emil Design Eng | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/emil-design-eng/`, MIT `LICENSE` included |
+| Animation Vocabulary | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/animation-vocabulary/`, MIT `LICENSE` included |
+| Apple Design | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/apple-design/`, MIT `LICENSE` included |
+| Improve Animations | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/improve-animations/`, MIT `LICENSE` included |
+| Review Animations | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/review-animations/`, MIT `LICENSE` included |
 
 ## Redistribution policy used here
 
@@ -21,4 +27,8 @@ If your skill is listed here and you'd like it vendored under your license, inst
 
 ## Discovery credit
 
-The specific five-skill starter set was surfaced via a roundup by [@lenny_builds on Threads](https://www.threads.com/@lenny_builds/post/Da6KG45kiTy). Skill ownership remains with the authors above.
+Skills were surfaced via community roundups, with ownership remaining with the authors above:
+
+- The five content/video skills — [@lenny_builds on Threads](https://www.threads.com/@lenny_builds/post/Da6KG45kiTy)
+- `find-animation-opportunities` — [@emilkowalski](https://x.com/emilkowalski) via [@vrajdesai78](https://x.com/vrajdesai78/status/2077617935217246344)
+- Emil Kowalski's design-engineering skills — surfaced via [@MengTo](https://x.com/mengto/status/2077791741793751104) ("UIs that don't smell like AI")

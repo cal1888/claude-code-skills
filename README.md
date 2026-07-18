@@ -21,6 +21,12 @@ A Claude Code Skill is a folder with a `SKILL.md` file that Claude Code auto-dis
 | [AI Video Generation](skills/ai-video-generation/) | Generate video across 40+ models (Veo, Seedance, Wan, Grok) via inference.sh | [inference-sh/skills](https://github.com/inference-sh/skills) | No license (all rights reserved) | 🔗 Install-linked |
 | [AI Image Generation](skills/ai-image-generation/) | Social graphics, illustrations, product images across 50+ models (FLUX, Gemini, Grok, Seedream) | [inference-sh/skills](https://github.com/inference-sh/skills) | No license (all rights reserved) | 🔗 Install-linked |
 | [AI Avatar Video](skills/ai-avatar-video/) | Talking-head / AI-presenter / UGC-style videos from an image + script | [inference-sh/skills](https://github.com/inference-sh/skills) | No license (all rights reserved) | 🔗 Install-linked |
+| [Find Animation Opportunities](skills/find-animation-opportunities/) | Find places in a UI that should animate (and reject what shouldn't) — read-only, proposes exact motion values | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | ✅ Vendored |
+| [Emil Design Eng](skills/emil-design-eng/) | Emil Kowalski's philosophy on UI polish, component design, and the invisible details that make software feel great | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | ✅ Vendored |
+| [Animation Vocabulary](skills/animation-vocabulary/) | Reverse-lookup glossary: turn a vague description of a motion effect into its exact term | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | ✅ Vendored |
+| [Apple Design](skills/apple-design/) | Apple's approach to fluid, physical interface motion and design foundations, translated for the web | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | ✅ Vendored |
+| [Improve Animations](skills/improve-animations/) | Audit a codebase's motion and produce prioritized animation-improvement plans for other agents to execute | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | ✅ Vendored |
+| [Review Animations](skills/review-animations/) | Review animation/motion code against a high craft bar derived from Emil Kowalski's philosophy — approval is earned | [emilkowalski/skills](https://github.com/emilkowalski/skills) | MIT | ✅ Vendored |
 
 <!-- COLLECTION:END -->
 

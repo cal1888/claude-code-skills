@@ -45,6 +45,60 @@
       "source": "https://github.com/inference-sh/skills",
       "license": "No license (all rights reserved)",
       "vendored": false
+    },
+    {
+      "slug": "find-animation-opportunities",
+      "name": "Find Animation Opportunities",
+      "description": "Find places in a UI that should animate (and reject what shouldn't) — read-only, proposes exact motion values",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "emil-design-eng",
+      "name": "Emil Design Eng",
+      "description": "Emil Kowalski's philosophy on UI polish, component design, and the invisible details that make software feel great",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "animation-vocabulary",
+      "name": "Animation Vocabulary",
+      "description": "Reverse-lookup glossary: turn a vague description of a motion effect into its exact term",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "apple-design",
+      "name": "Apple Design",
+      "description": "Apple's approach to fluid, physical interface motion and design foundations, translated for the web",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "improve-animations",
+      "name": "Improve Animations",
+      "description": "Audit a codebase's motion and produce prioritized animation-improvement plans for other agents to execute",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "review-animations",
+      "name": "Review Animations",
+      "description": "Review animation/motion code against a high craft bar derived from Emil Kowalski's philosophy — approval is earned",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
     }
   ]
 }
