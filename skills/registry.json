@@ -1,0 +1,50 @@
+{
+  "$comment": "Single source of truth for the collection. Add a skill here, then run: node scripts/sync.mjs",
+  "skills": [
+    {
+      "slug": "hyperframes",
+      "name": "HyperFrames",
+      "description": "Animated videos from HTML — captions, narration, reactive visuals, scene transitions",
+      "sourceOwner": "heygen-com/hyperframes",
+      "source": "https://github.com/heygen-com/hyperframes",
+      "license": "Apache-2.0",
+      "vendored": true
+    },
+    {
+      "slug": "remotion-best-practices",
+      "name": "Remotion Best Practices",
+      "description": "Full videos in React with Remotion — animations, captions, audio, transitions, charts, effects, AI voiceovers",
+      "sourceOwner": "remotion-dev/skills",
+      "source": "https://github.com/remotion-dev/skills",
+      "license": "No license (all rights reserved)",
+      "vendored": false
+    },
+    {
+      "slug": "ai-video-generation",
+      "name": "AI Video Generation",
+      "description": "Generate video across 40+ models (Veo, Seedance, Wan, Grok) via inference.sh",
+      "sourceOwner": "inference-sh/skills",
+      "source": "https://github.com/inference-sh/skills",
+      "license": "No license (all rights reserved)",
+      "vendored": false
+    },
+    {
+      "slug": "ai-image-generation",
+      "name": "AI Image Generation",
+      "description": "Social graphics, illustrations, product images across 50+ models (FLUX, Gemini, Grok, Seedream)",
+      "sourceOwner": "inference-sh/skills",
+      "source": "https://github.com/inference-sh/skills",
+      "license": "No license (all rights reserved)",
+      "vendored": false
+    },
+    {
+      "slug": "ai-avatar-video",
+      "name": "AI Avatar Video",
+      "description": "Talking-head / AI-presenter / UGC-style videos from an image + script",
+      "sourceOwner": "inference-sh/skills",
+      "source": "https://github.com/inference-sh/skills",
+      "license": "No license (all rights reserved)",
+      "vendored": false
+    }
+  ]
+}
