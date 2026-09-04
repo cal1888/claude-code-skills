@@ -99,6 +99,155 @@
       "source": "https://github.com/emilkowalski/skills",
       "license": "MIT",
       "vendored": true
+    },
+    {
+      "slug": "pick-ui-library",
+      "name": "Pick UI Library",
+      "description": "Opinionated lookup: the right library for a frontend task — toasts, charts, drag-and-drop, OTP inputs, command menus, state, styling",
+      "sourceOwner": "emilkowalski/skills",
+      "source": "https://github.com/emilkowalski/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "scroll-world",
+      "name": "Scroll World",
+      "description": "Scroll-scrubbed 'fly through the world' landing page — one continuous pre-rendered camera flight with no cuts, scenes generated with Higgsfield",
+      "sourceOwner": "oso95/scroll-world",
+      "source": "https://github.com/oso95/scroll-world",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "humanizer",
+      "name": "Humanizer",
+      "description": "Removes signs of AI-generated writing from text, based on Wikipedia's 'Signs of AI writing' guide",
+      "sourceOwner": "blader/humanizer",
+      "source": "https://github.com/blader/humanizer",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "ui-ux-pro-max",
+      "name": "UI/UX Pro Max",
+      "description": "Design intelligence: 67 styles, 96 palettes, 57 font pairings, 25 chart types, 13 stacks — searchable via bundled scripts",
+      "sourceOwner": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "source": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "fireworks-tech-graph",
+      "name": "Fireworks Tech Graph",
+      "description": "Production-quality SVG+PNG technical diagrams from natural language — 7 visual styles, UML types, agent/memory workflow patterns",
+      "sourceOwner": "yizhiyanhua-ai/fireworks-tech-graph",
+      "source": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "interfaces",
+      "name": "Interfaces",
+      "description": "Eleven 'better-*' skills for building great interfaces — layout, typography, colour, accessibility, UX writing, reviews, variants",
+      "sourceOwner": "jakubkrehel/skills",
+      "source": "https://github.com/jakubkrehel/skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "cloudflare-skills",
+      "name": "Cloudflare Skills",
+      "description": "Official Cloudflare pack: Workers best practices, Wrangler, Durable Objects, Agents SDK, Sandbox SDK, Turnstile setup, Email Service, Cloudflare One, web performance",
+      "sourceOwner": "cloudflare/skills",
+      "source": "https://github.com/cloudflare/skills",
+      "license": "Apache-2.0",
+      "vendored": true
+    },
+    {
+      "slug": "last30days",
+      "name": "last30days",
+      "description": "Research any topic across Reddit, X, YouTube, Hacker News, Polymarket and the web from the last 30 days, then synthesise a grounded summary",
+      "sourceOwner": "mvanhorn/last30days-skill",
+      "source": "https://github.com/mvanhorn/last30days-skill",
+      "license": "MIT",
+      "vendored": false
+    },
+    {
+      "slug": "lej-output-fixer",
+      "name": "LEJ Output Fixer",
+      "description": "Three ready-made Claude Code output styles (including 'Bottom Line First') plus a picker command — makes Claude's replies readable again",
+      "sourceOwner": "justfinethanku/LEJ-output-fixer",
+      "source": "https://github.com/justfinethanku/LEJ-output-fixer",
+      "license": "MIT",
+      "vendored": false
+    },
+    {
+      "slug": "meta-ads-generator",
+      "name": "Meta Ads Generator",
+      "description": "Product URL → brand voice, competitor and review scrape, psychology pillar map → four on-brand Meta ad creatives; backend-agnostic image generation",
+      "sourceOwner": "tenfoldmarc/meta-ads-generator-skill",
+      "source": "https://github.com/tenfoldmarc/meta-ads-generator-skill",
+      "license": "No license (all rights reserved)",
+      "vendored": false
+    },
+    {
+      "slug": "superdesign",
+      "name": "Superdesign",
+      "description": "AI product-design agent for frontend UI/UX — faithful reproductions, iterated variants and multi-page flows from a component file",
+      "sourceOwner": "superdesigndev/superdesign",
+      "source": "https://github.com/superdesigndev/superdesign",
+      "license": "AGPL-3.0 (some files under a commercial license)",
+      "vendored": false
+    },
+    {
+      "slug": "minto-pyramid",
+      "name": "Minto Pyramid",
+      "description": "Barbara Minto's Pyramid Principle for business writing — answer first, three MECE reasons, evidence underneath; five review modes from buried-lede test to email compression",
+      "sourceOwner": "cal1888 (original)",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/minto-pyramid",
+      "license": "MIT",
+      "vendored": false,
+      "original": true
+    },
+    {
+      "slug": "design-inspo",
+      "name": "Design Inspo",
+      "description": "Find cohesive micro-interaction and animation inspiration (Mobbin, Godly, Detail.design, 60fps…) that fits a product's existing motion language",
+      "sourceOwner": "cal1888 (original)",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/design-inspo",
+      "license": "MIT",
+      "vendored": false,
+      "original": true
+    },
+    {
+      "slug": "rhetorical-devices",
+      "name": "Rhetorical Devices",
+      "description": "Ten classical rhetorical devices (tricolon, antithesis, anaphora, antimetabole…) for persuasive, memorable formal writing and speeches",
+      "sourceOwner": "cal1888 (original)",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/rhetorical-devices",
+      "license": "MIT",
+      "vendored": false,
+      "original": true
+    },
+    {
+      "slug": "persona-brief",
+      "name": "Persona Brief",
+      "description": "Live-researched, Reddit-native audience persona briefs structured as a paste-into-any-LLM marketing playbook — subreddit map, psyche, real quotes, pain points, content angles, vocabulary guardrails",
+      "sourceOwner": "cal1888 (original)",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/persona-brief",
+      "license": "MIT",
+      "vendored": false,
+      "original": true
+    },
+    {
+      "slug": "character-prompt-design",
+      "name": "Character Prompt Design",
+      "description": "Iterative method for AI character / agent persona prompts — clarify scope before drafting, draft into structured fields, revise consistently across fields, ship with safe defaults, capture lessons",
+      "sourceOwner": "cal1888 (original)",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/character-prompt-design",
+      "license": "MIT",
+      "vendored": false,
+      "original": true
     }
   ]
 }

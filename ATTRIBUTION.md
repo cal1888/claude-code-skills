@@ -15,11 +15,29 @@ Every skill in this collection was created by its original authors, credited bel
 | Apple Design | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/apple-design/`, MIT `LICENSE` included |
 | Improve Animations | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/improve-animations/`, MIT `LICENSE` included |
 | Review Animations | Emil Kowalski (`emilkowalski`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/review-animations/`, MIT `LICENSE` included |
+| Pick UI Library | Emil Kowalski (`emilkowalski/skills`) | https://github.com/emilkowalski/skills | MIT | Vendored — `skills/pick-ui-library/`, original `LICENSE` included |
+| Scroll World | oso95 (`oso95/scroll-world`) | https://github.com/oso95/scroll-world | MIT | Vendored — `skills/scroll-world/`, original `LICENSE` included |
+| Humanizer | blader (`blader/humanizer`) | https://github.com/blader/humanizer | MIT | Vendored — `skills/humanizer/`, original `LICENSE` included |
+| UI/UX Pro Max | nextlevelbuilder (`nextlevelbuilder/ui-ux-pro-max-skill`) | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | MIT | Vendored — `skills/ui-ux-pro-max/`, original `LICENSE` included |
+| Fireworks Tech Graph | yizhiyanhua-ai (`yizhiyanhua-ai/fireworks-tech-graph`) | https://github.com/yizhiyanhua-ai/fireworks-tech-graph | MIT | Vendored — `skills/fireworks-tech-graph/`, original `LICENSE` included |
+| Interfaces | Jakub Krehel (`jakubkrehel/skills`) | https://github.com/jakubkrehel/skills | MIT | Vendored — `skills/interfaces/`, original `LICENSE` included |
+| Cloudflare Skills | Cloudflare (`cloudflare/skills`) | https://github.com/cloudflare/skills | Apache-2.0 | Vendored — `skills/cloudflare-skills/`, original `LICENSE` included |
+| last30days | Matt Van Horn (`mvanhorn/last30days-skill`) | https://github.com/mvanhorn/last30days-skill | MIT | Install-linked only — not rehosted |
+| LEJ Output Fixer | justfinethanku (`justfinethanku/LEJ-output-fixer`) | https://github.com/justfinethanku/LEJ-output-fixer | MIT | Install-linked only — not rehosted |
+| Meta Ads Generator | Marc (`tenfoldmarc/meta-ads-generator-skill`) | https://github.com/tenfoldmarc/meta-ads-generator-skill | No license (all rights reserved) | Install-linked only — not rehosted |
+| Superdesign | Superdesign (`superdesigndev/superdesign`) | https://github.com/superdesigndev/superdesign | AGPL-3.0 (some files under a commercial license) | Install-linked only — not rehosted |
+| Minto Pyramid | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/minto-pyramid | MIT | Original — `skills/minto-pyramid/`, this repo's MIT license |
+| Design Inspo | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/design-inspo | MIT | Original — `skills/design-inspo/`, this repo's MIT license |
+| Rhetorical Devices | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/rhetorical-devices | MIT | Original — `skills/rhetorical-devices/`, this repo's MIT license |
+| Persona Brief | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/persona-brief | MIT | Original — `skills/persona-brief/`, this repo's MIT license |
+| Character Prompt Design | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/character-prompt-design | MIT | Original — `skills/character-prompt-design/`, this repo's MIT license |
 
 ## Redistribution policy used here
 
 - **Vendored** skills are only included when their source repository carries a license that permits redistribution (e.g. MIT, Apache-2.0). Their original `LICENSE` travels with the files.
-- **Install-linked** skills have no redistribution license, so this repo does **not** copy their files. Each folder documents the skill and provides the official `npx skills add …` command that installs it from the author's own repository.
+- **Install-linked** skills either have no redistribution license, are copyleft, or are large plugins better installed from source — this repo does **not** copy their files. Each folder documents the skill and provides the official `npx skills add …` command that installs it from the author's own repository.
+
+- **Original** skills were written by the repo owner (with Claude Code) and are licensed under this repository's MIT `LICENSE`.
 
 ## For authors
 
