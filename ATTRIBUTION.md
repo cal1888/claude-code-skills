@@ -35,6 +35,8 @@ Every skill in this collection was created by its original authors, credited bel
 | GenAI PM Skills | GenAI PM (`menkesu/genaipm-claw`) | https://github.com/menkesu/genaipm-claw | MIT (declared in the source README; no LICENSE file) | Vendored — `skills/genaipm-pm-skills/`, original `LICENSE` included |
 | Skill Writer | Billy (`virgoC0der/awesome-claude-code`) | https://github.com/virgoC0der/awesome-claude-code | MIT | Vendored — `skills/skill-writer/`, original `LICENSE` included |
 | Ponytail | Dietrich Gebert (`DietrichGebert/ponytail`) | https://github.com/DietrichGebert/ponytail | MIT | Vendored — `skills/ponytail/`, original `LICENSE` included |
+| Anti-AI | **Unknown** — arrived as `anti-ai-skill.zip` via a Dropbox share link, July 2026 | (none) | None stated | Unattributed — `skills/anti-ai/`; will be credited or removed on request |
+| Simplified Technical English (STE) | **Unknown** — arrived as `ste_skill_folder.zip` via a Google Drive download, August 2026 | (none) | None stated | Unattributed — `skills/ste/`; will be credited or removed on request |
 
 ## Redistribution policy used here
 
@@ -42,6 +44,8 @@ Every skill in this collection was created by its original authors, credited bel
 - **Install-linked** skills either have no redistribution license, are copyleft, or are large plugins better installed from source — this repo does **not** copy their files. Each folder documents the skill and provides the official `npx skills add …` command that installs it from the author's own repository.
 
 - **Original** skills were written by the repo owner (with Claude Code) and are licensed under this repository's MIT `LICENSE`.
+
+- **Unattributed** skills arrived as zip files with no author or license inside. They are included in good faith because they are useful; if you are the author, open an issue and they will be credited under your name and license, or removed.
 
 ## For authors
 

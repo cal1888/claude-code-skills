@@ -284,6 +284,26 @@
       "source": "https://github.com/DietrichGebert/ponytail",
       "license": "MIT",
       "vendored": true
+    },
+    {
+      "slug": "anti-ai",
+      "name": "Anti-AI",
+      "description": "Rewrite AI-generated text so it passes as human to readers and to statistical detectors (Pangram etc.) — detector mode with 'discourse fracture' and an interleave protocol, reader mode for formal register",
+      "sourceOwner": "unknown",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/anti-ai",
+      "license": "Unknown (no license in the zip)",
+      "vendored": true,
+      "unattributed": true
+    },
+    {
+      "slug": "ste",
+      "name": "Simplified Technical English (STE)",
+      "description": "Write or rewrite text in ASD-STE100 Simplified Technical English — controlled vocabulary, one instruction per sentence, word-substitution table and worked examples",
+      "sourceOwner": "unknown",
+      "source": "https://github.com/cal1888/claude-code-skills/tree/main/skills/ste",
+      "license": "Unknown (no license in the zip)",
+      "vendored": true,
+      "unattributed": true
     }
   ]
 }

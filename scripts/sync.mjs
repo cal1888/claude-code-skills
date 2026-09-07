@@ -40,7 +40,7 @@ for (const s of registry.skills) {
 
 const rows = registry.skills
   .map((s) => {
-    const status = s.original ? "✍️ Original" : s.vendored ? "✅ Vendored" : "🔗 Install-linked";
+    const status = s.unattributed ? "❓ Unattributed" : s.original ? "✍️ Original" : s.vendored ? "✅ Vendored" : "🔗 Install-linked";
     return `| [${s.name}](skills/${s.slug}/) | ${s.description} | [${s.sourceOwner}](${s.source}) | ${s.license} | ${status} |`;
   })
   .join("\n");
