@@ -248,6 +248,42 @@
       "license": "MIT",
       "vendored": false,
       "original": true
+    },
+    {
+      "slug": "aso-skills",
+      "name": "ASO & App Marketing Skills",
+      "description": "40-skill pack for App Store Optimization and app marketing — audits, keyword research, metadata, screenshots, reviews, launches, Apple Search Ads, localization, retention, monetization",
+      "sourceOwner": "Eronred/aso-skills",
+      "source": "https://github.com/Eronred/aso-skills",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "genaipm-pm-skills",
+      "name": "GenAI PM Skills",
+      "description": "Ten product-management workflow skills from GenAI PM Claw — PRDs, Type 1/Type 2 decision log, RICE prioritisation, metrics trees, user-interview guides, competitive analysis, launch checklists, retros, stakeholder updates, energy audit",
+      "sourceOwner": "menkesu/genaipm-claw",
+      "source": "https://github.com/menkesu/genaipm-claw",
+      "license": "MIT (declared in the source README; no LICENSE file)",
+      "vendored": true
+    },
+    {
+      "slug": "skill-writer",
+      "name": "Skill Writer",
+      "description": "Meta-skill that walks you through authoring a Claude Code Agent Skill — scope, frontmatter, structure, progressive disclosure, validation",
+      "sourceOwner": "virgoC0der/awesome-claude-code",
+      "source": "https://github.com/virgoC0der/awesome-claude-code",
+      "license": "MIT",
+      "vendored": true
+    },
+    {
+      "slug": "ponytail",
+      "name": "Ponytail",
+      "description": "Makes the agent think like the laziest senior dev in the room — YAGNI, standard library first, one line before fifty; ~54% less code in its benchmarks. Plus audit / review / debt / gain companions",
+      "sourceOwner": "DietrichGebert/ponytail",
+      "source": "https://github.com/DietrichGebert/ponytail",
+      "license": "MIT",
+      "vendored": true
     }
   ]
 }

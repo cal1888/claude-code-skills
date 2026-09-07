@@ -31,6 +31,10 @@ Every skill in this collection was created by its original authors, credited bel
 | Rhetorical Devices | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/rhetorical-devices | MIT | Original — `skills/rhetorical-devices/`, this repo's MIT license |
 | Persona Brief | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/persona-brief | MIT | Original — `skills/persona-brief/`, this repo's MIT license |
 | Character Prompt Design | Cal (`cal1888`) | https://github.com/cal1888/claude-code-skills/tree/main/skills/character-prompt-design | MIT | Original — `skills/character-prompt-design/`, this repo's MIT license |
+| ASO & App Marketing Skills | Eren Can Arıca / Appeeky (`Eronred/aso-skills`) | https://github.com/Eronred/aso-skills | MIT | Vendored — `skills/aso-skills/`, original `LICENSE` included |
+| GenAI PM Skills | GenAI PM (`menkesu/genaipm-claw`) | https://github.com/menkesu/genaipm-claw | MIT (declared in the source README; no LICENSE file) | Vendored — `skills/genaipm-pm-skills/`, original `LICENSE` included |
+| Skill Writer | Billy (`virgoC0der/awesome-claude-code`) | https://github.com/virgoC0der/awesome-claude-code | MIT | Vendored — `skills/skill-writer/`, original `LICENSE` included |
+| Ponytail | Dietrich Gebert (`DietrichGebert/ponytail`) | https://github.com/DietrichGebert/ponytail | MIT | Vendored — `skills/ponytail/`, original `LICENSE` included |
 
 ## Redistribution policy used here
 
