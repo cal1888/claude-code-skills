@@ -1,5 +1,8 @@
 # Claude Code Skills — Curated Collection
 
+> [!WARNING]
+> **Last updated: 7 September 2026. This list is badly out of date.** New skills come out every week, so treat it as a snapshot of what was good then, not a current guide. Check [skills.sh](https://skills.sh) or the original authors' repos for what's new.
+
 A curated, credited collection of high-quality [Claude Code](https://docs.claude.com/en/docs/claude-code) Agent Skills, organised in one place with install commands and links back to every original source.
 
 This is mostly a **curation**, not a claim of authorship. Every third-party skill below was created by the people and companies credited in [`ATTRIBUTION.md`](ATTRIBUTION.md). Skills that are openly licensed for redistribution are vendored in full (with their license intact); everything else is indexed with a one-line install command that pulls it straight from the original repo. A handful of skills marked ✍️ are original to this repo — written for day-to-day product, writing and design work — and are MIT licensed.
